@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: PestoImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5131297725587256376
+  m_GuidHigh: 18256581965859793296
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5100035571101537938
+      m_GuidHigh: 12510954612331104940
+    m_SerializedTextureGuid:
+      m_GuidLow: 7283723223527276622
+      m_GuidHigh: 5367229502976924378
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: basil-plant
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5054551979918450400
+      m_GuidHigh: 7126976041262216344
+    m_SerializedTextureGuid:
+      m_GuidLow: 15696293998822066801
+      m_GuidHigh: 13238096003681237243
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: cheese
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5243611310699140073
+      m_GuidHigh: 11311355922530043777
+    m_SerializedTextureGuid:
+      m_GuidLow: 3950805605280266224
+      m_GuidHigh: 804575509677196408
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: cooking-pot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5703449371374606193
+      m_GuidHigh: 6438656926058472833
+    m_SerializedTextureGuid:
+      m_GuidLow: 2869931591460447562
+      m_GuidHigh: 4101913483931225305
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: garlic-bulb
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4644161581301353515
+      m_GuidHigh: 6354647538507248565
+    m_SerializedTextureGuid:
+      m_GuidLow: 12845662498394897139
+      m_GuidHigh: 9325734152829137801
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: mortar-pestle
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5049528903560052568
+      m_GuidHigh: 14471259812567976593
+    m_SerializedTextureGuid:
+      m_GuidLow: 15772861769751366447
+      m_GuidHigh: 13748487333501622776
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: pesto-image
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4772481763191370195
+      m_GuidHigh: 4952167460487151244
+    m_SerializedTextureGuid:
+      m_GuidLow: 4342688834259708758
+      m_GuidHigh: 10515707310397932536
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: pesto-sauce
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5693343224106155218
+      m_GuidHigh: 11333377268625112732
+    m_SerializedTextureGuid:
+      m_GuidLow: 140808989023740748
+      m_GuidHigh: 2647663860954466904
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: pinenuts
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5725906418440780164
+      m_GuidHigh: 18129146162954021793
+    m_SerializedTextureGuid:
+      m_GuidLow: 10814546665572150894
+      m_GuidHigh: 2503432889629318553
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: tablesaltshaker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4845934967789903030
+      m_GuidHigh: 4606821160919325325
+    m_SerializedTextureGuid:
+      m_GuidLow: 17295000906212022591
+      m_GuidHigh: 8108297778619749962
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: vegetable-oil
+    m_Texture: {fileID: 0}
